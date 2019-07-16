@@ -31,6 +31,8 @@
     
 ## Usage
 
+This script is supposed to be used in a Linux OS.
+
 ```
 Python cppcheck_compare.py <branch1> <branch2> <save path>
 ```
