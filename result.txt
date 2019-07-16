@@ -1,2 +1,2 @@
-1a2
-> [src/example.c] (style) Unused variable: b
+41a42
++ [src/example.c:4]: (style) Unused variable: b
