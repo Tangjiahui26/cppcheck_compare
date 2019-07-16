@@ -17,7 +17,7 @@
 ## problem
 - Line numbers will be changed after modifying the codes, so diff does not work so well.
 
-[](https://github.com/Tangjiahui26/cppcheck_compare/blob/master/fig/problem.PNG)
+![](https://github.com/Tangjiahui26/cppcheck_compare/blob/master/fig/problem.png)
 
 ## solution
 - Write a Python script to solve the problem of line number changes. The workflow is as follows:
@@ -37,5 +37,5 @@ Python cppcheck_compare.py <branch1> <branch2> <save path>
     
 ## Result
 
-[](https://github.com/Tangjiahui26/cppcheck_compare/blob/master/fig/result.PNG)
+![](https://github.com/Tangjiahui26/cppcheck_compare/blob/master/fig/result.png)
 
